@@ -1,0 +1,7 @@
+Sitemap: https://timharveydevseo.000webhostapp.com/sitemap.xml
+
+
+
+User-agent: *
+
+Disallow:
