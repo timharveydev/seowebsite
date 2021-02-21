@@ -452,6 +452,44 @@ svg {
 
 
 
+/* PRICING */
+#pricing {
+  padding: 5rem 0;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/pricing_2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: var(--color-bg-grey);
+}
+
+#pricing h2 {
+  color: #0099a7;
+}
+
+#pricing .flex-row {
+  justify-content: space-around;
+}
+
+#pricing .flex-column {
+  align-items: center;
+  padding-top: 5rem;
+}
+
+#pricing hr {
+  width: 30rem;
+  margin: 2rem 0;
+}
+
+#pricing p {
+  text-align: center;
+  max-width: 30rem;
+  padding: 0.7rem 0;
+}
+
+
+
+
+
 /* CONTACT */
 #contact {
   padding: 5rem 0;
@@ -476,6 +514,7 @@ svg {
 
 #contact form {
   width: 70%;
+  padding: 3rem 0;
 }
 
 #contact form input,
