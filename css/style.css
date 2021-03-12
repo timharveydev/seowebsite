@@ -501,10 +501,11 @@ svg {
 
 #contact .flex-column {
   align-items: center;
+  margin: 0 5rem;
 }
 
-#contact h1 {
-  margin-bottom: 3rem;
+#contact h2 {
+  margin-bottom: 2.5rem;
 }
 
 #contact p {
